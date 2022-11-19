@@ -1,0 +1,31 @@
+.footer{
+    background-color: rgb(41, 49, 62);
+    display: flex;
+    color: rgb(130, 130, 133);
+    padding-top: 5%;
+    font-size: small;
+    text-align: center;
+}
+
+.footer h4{
+    color: white;
+    font-weight: bold;
+    font-size: small;
+}
+
+.copyright{
+    background-color: black;
+    color: rgb(100, 93, 93);
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 40px;
+}
+
+.footer1{
+    font-size: small;
+    text-align: center;
+    background-color: rgb(62, 81, 102);
+    color:white;
+    padding: 10px;
+    margin-top: 80px;
+}
